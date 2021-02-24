@@ -1,0 +1,67 @@
+.el {
+    height: 200px;
+    margin-bottom: 1px;
+    border: solid orange 1px;
+
+}
+
+.er {
+    margin-left: 220px;
+
+}
+
+.eb {
+    width: 200px;
+}
+
+h1 {
+    text-align: center;
+    border: black solid 3px;
+}
+
+.gg {
+    display: flex;
+    justify-content: center;
+}
+
+.NC {
+    margin-right: 50px;
+    border: solid red 2px;
+    padding: 5px;
+}
+
+.Section2 {
+    border: dashed #ff8c1a 3px;
+
+}
+
+.Section1 {
+    border: dashed #ff8c1a 3px;
+    margin-bottom: 22px;
+    margin-top: 13px;
+}
+
+.Section3 {
+    border: dashed #ff8c1a 3px;
+    margin-top: 13px;
+    padding: 5px;
+}
+
+.q {
+    font-family: 'Lobster', cursive;
+}
+
+html {
+    background-color:
+        #0099ff;
+}
+
+
+.Tt {
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 25px;
+}
+
+.Tm {
+    font-size: 18px;
+}
